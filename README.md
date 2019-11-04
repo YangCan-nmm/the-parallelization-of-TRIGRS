@@ -4,6 +4,7 @@ We use OpenMP and MPI to further parallelize the latest version of TRIGRS model,
 Directories:
 
 optimized code : storing the codes after optimized and the data.
+
 original code: storing the codes before optimized and the data.
 
 Compiling and running steps: 
